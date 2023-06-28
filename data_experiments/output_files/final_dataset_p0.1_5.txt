@@ -1,0 +1,24 @@
+Looking for a split for p=0.1
+Found split for p=0.1 [20 videos]
+Moving sampled images to a separate folder
+video_validation_0000289.npy
+video_validation_0000266.npy
+video_validation_0000937.npy
+video_validation_0000152.npy
+video_validation_0000662.npy
+video_validation_0000155.npy
+video_validation_0000904.npy
+video_validation_0000984.npy
+video_validation_0000416.npy
+video_validation_0000852.npy
+video_validation_0000166.npy
+video_validation_0000936.npy
+video_validation_0000417.npy
+video_validation_0000363.npy
+video_validation_0000052.npy
+video_validation_0000484.npy
+video_validation_0000784.npy
+video_validation_0000320.npy
+video_validation_0000949.npy
+video_validation_0000173.npy
+Finished sampling

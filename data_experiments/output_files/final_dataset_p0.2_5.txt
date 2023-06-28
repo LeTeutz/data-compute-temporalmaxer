@@ -1,0 +1,44 @@
+Looking for a split for p=0.2
+Found split for p=0.2 [40 videos]
+Moving sampled images to a separate folder
+video_validation_0000906.npy
+video_validation_0000163.npy
+video_validation_0000361.npy
+video_validation_0000932.npy
+video_validation_0000859.npy
+video_validation_0000990.npy
+video_validation_0000904.npy
+video_validation_0000264.npy
+video_validation_0000782.npy
+video_validation_0000988.npy
+video_validation_0000156.npy
+video_validation_0000664.npy
+video_validation_0000487.npy
+video_validation_0000185.npy
+video_validation_0000370.npy
+video_validation_0000282.npy
+video_validation_0000178.npy
+video_validation_0000411.npy
+video_validation_0000419.npy
+video_validation_0000412.npy
+video_validation_0000937.npy
+video_validation_0000188.npy
+video_validation_0000939.npy
+video_validation_0000182.npy
+video_validation_0000158.npy
+video_validation_0000206.npy
+video_validation_0000943.npy
+video_validation_0000481.npy
+video_validation_0000313.npy
+video_validation_0000159.npy
+video_validation_0000160.npy
+video_validation_0000281.npy
+video_validation_0000172.npy
+video_validation_0000686.npy
+video_validation_0000901.npy
+video_validation_0000058.npy
+video_validation_0000667.npy
+video_validation_0000166.npy
+video_validation_0000285.npy
+video_validation_0000687.npy
+Finished sampling
