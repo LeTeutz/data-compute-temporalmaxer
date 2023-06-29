@@ -1,3 +1,18 @@
+# TemporalMaxer Performance in the Face of Constraint: A Study in Temporal Action Localization
+[Link to the paper](https://repository.tudelft.nl/islandora/object/uuid:8708db58-52e1-45ca-9a34-8f71cf0f256b?collection=education)
+
+## Abstract
+This paper presents an analysis of the data and compute efficiency of the TemporalMaxer deep learning model in the context of temporal action localization (TAL), which involves accurately detecting the start and end times of specific video actions. The study explores the performance and scalability of the TemporalMaxer model under limited resources and data availability, focusing on factors such as hardware requirements, training time, and data utilization, thus contributing to the advancement of efficient deep learning models for real-world video tasks. Through a literature review of temporal action recognition models, evaluation of learning curves for data efficiency, and development of metrics to assess the compute efficiency, the study provides insights into the performance trade-offs of the TemporalMaxer model. Experiments conducted on the widely used THUMOS dataset further demonstrate the model's generalizability with limited data, achieving significant accuracy performance with only 50% of the training data. Notably, TemporalMaxer exhibits superior compute efficiency by significantly reducing the number of Multiply-Accumulate operations (MACs) compared to other state-of-the-art models. However, alternative models like TriDet and TadTR outperform TemporalMaxer in training time-constrained scenarios. These findings shed light on the model's practical applicability in resource-constrained environments, offering insights for further optimization and study.
+
+## Overview
+Shell scripts are used for submitting jobs to cluster, Python and R scripts are used for experimments, data processing and plotting.
+
+## TODOS:
+- [ ] Improve README description by adding 
+- [ ] Change/specify the file paths for the scripts
+
+________________________________
+
 ## TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization
 This is the official implementation of the paper [TemporalMaxer](https://arxiv.org/pdf/2303.09055.pdf). 
 
